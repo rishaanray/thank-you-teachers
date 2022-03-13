@@ -1,0 +1,75 @@
+.menu{
+    position:fixed;
+    background: purple;
+    top: 0px;
+    width: 100%;
+    margin-top: 0px;
+    z-index: 10;
+}
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 20px;
+    font-family: cursive;
+}
+.links:hover{
+    font-size: 35px;
+    text-decoration: underline;
+}
+#bio{
+    font-family: cursive;
+    padding: 50px;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: blanchedalmond;
+    margin: 8px auto;
+    text-emphasis-color: white;
+}
+h1{
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: 300;
+}
+body{
+    text-align: center;
+    margin: 00;
+    padding-top:800px ;
+}
+.profile{
+    border-radius: 50%;
+    text-emphasis-color: white;
+}
+#welcome{
+    position: absolute;
+    bottom: 0%;
+    display: table;
+    width: 100%;
+    height: 100%;
+    background:linear-gradient(rgb(0, 134, 134) 0%, rgb(168, 4, 4) 100%) ;
+}
+#name{
+    font-size: 50px;
+    font-family: cursive;
+}
+h2{
+    font-size: 30px;
+    font-weight: 300;
+    font-family: cursive;
+}
+.parallax-inner{
+    display: table-cell;
+    vertical-align: middle;
+}
+.Somethingsforyou{
+    color: rgb(255, 0, 0);
+    font-size: large;
+    font-family: cursive;
+}
+#o{
+    color: limegreen;
+    text-decoration: bold;
+    font-size: large;
+}
